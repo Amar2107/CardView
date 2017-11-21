@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "343853342100",
+    "firebase_url": "https://cardview-150c7.firebaseio.com",
+    "project_id": "cardview-150c7",
+    "storage_bucket": "cardview-150c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343853342100:android:5613905cacbe1155",
+        "android_client_info": {
+          "package_name": "com.example.sonu.cardview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343853342100-ben5ibqb5jeht7dd8qil95up2gu6e8n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sonu.cardview",
+            "certificate_hash": "4939fdc2610e6220883dd6d10258467e98c7db99"
+          }
+        },
+        {
+          "client_id": "343853342100-03fo6hphkkghg1raa8n9tk3gqq7gea4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy43d0QdOCRCIr0UaEHlOQZKavpSx0Y5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343853342100-03fo6hphkkghg1raa8n9tk3gqq7gea4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
