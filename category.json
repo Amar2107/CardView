@@ -1,0 +1,36 @@
+{
+  "category": {
+    "01": {
+      "Name": "PIZZA",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian1.jpg"
+    },
+    "02": {
+      "Name": "AMERICAN",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/american1.jpg"
+    },
+    "03": {
+      "Name": "ITALIAN",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian2.jpg"
+    },
+    "04": {
+      "Name": "INDIAN",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/indian1.jpg"
+    },
+    "05": {
+      "Name": "CHINESE",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/chinese1.jpg"
+    },
+    "06": {
+      "Name": "NOODLES",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/ramen1.jpg"
+    },
+    "07": {
+      "Name": "DESSERT",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/dessert1.jpg"
+    },
+    "08": {
+      "Name": "ICE CREAM",
+      "Image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/icecream1.jpg"
+    }
+  }
+}
