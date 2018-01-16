@@ -1,0 +1,45 @@
+{
+  "error": "false",
+  "food": [
+    {
+      "name": "American",
+      "about": "American cuisenes such as Burger, Cheese sandwhich and many more dishes",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/american1.jpg"
+    },
+    {
+      "name": "Italian",
+      "about": "Authenticated Italian dishes such as pasta pizzas and other dishes",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian2.jpg"
+    },
+    {
+      "name": "Chineese",
+      "about": "Chineese soups and dumplings and ramens",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/chinese1.jpg"
+    },
+    {
+      "name": "Indian",
+      "about": "",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/indian1.jpg"
+    },
+    {
+      "name": "Pizza",
+      "about": "dominos and other vendors",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian1.jpg"
+    },
+    {
+      "name": "Desserts",
+      "about": "sweet and savory delicious deserts",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/desserts1.jpg"
+    },
+    {
+      "name": "Ramens",
+      "about": "Hot fresh prepared ramens",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/ramen1.jpg"
+    },
+    {
+      "name": "Ice Creams",
+      "about": "delicious cold ice-creams",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/icecream1.jpg"
+    }
+  ]
+}
