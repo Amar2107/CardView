@@ -2,14 +2,14 @@
   "error": "false",
   "food": [
     {
+      "name": "Italian",
+      "about": "Amazing new Italian food",
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian1.jpg"
+    },
+    {
       "name": "American",
       "about": "American cuisenes such as Burger, Cheese sandwhich and many more dishes",
       "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/american1.jpg"
-    },
-    {
-      "name": "Italian",
-      "about": "Authenticated Italian dishes such as pasta pizzas and other dishes",
-      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/italian2.jpg"
     },
     {
       "name": "Chineese",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Indian",
-      "about": "",
+      "about": "Spicy Indian dishes",
       "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/indian1.jpg"
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "Desserts",
       "about": "sweet and savory delicious deserts",
-      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/desserts1.jpg"
+      "image": "https://raw.githubusercontent.com/Amar2107/CardView/master/cardview_res/dessert1.jpg"
     },
     {
       "name": "Ramens",
